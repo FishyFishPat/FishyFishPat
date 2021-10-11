@@ -14,7 +14,7 @@ My name is Patrik and here are things you should know about me.
 ### Software I use:
 
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.48-insider&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
-![Github](https://img.shields.io/static/v1?label=GitHub&message=Tevzi2&color=181717&style=for-the-badge&logo=github)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=FishyFishPat&color=181717&style=for-the-badge&logo=github)
 ![GitKraken](https://img.shields.io/static/v1?label=GitKraken&message=7.4.0&color=44abd4&style=for-the-badge&logo=gitkraken)
 ![Postman](https://img.shields.io/static/v1?label=Postman&message=7.36.0&color=ff6c37&style=for-the-badge&logo=postman)
-![JetBrains](https://img.shields.io/static/v1?label=JetBrains&color=ff6c37&style=for-the-badge&logo=jetbrains)
+![JetBrains](https://img.shields.io/static/v1?label=JetBrains&message=2021.2.3&color=F9ED41&style=for-the-badge&logo=jetbrains)
