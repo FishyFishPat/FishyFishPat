@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-My name is patrik and here are things you should know about me.
+My name is Patrik and here are things you should know about me.
 
 #### Languages I know:
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES7&style=for-the-badge&color=F7DF1E&logo=JavaScript)
