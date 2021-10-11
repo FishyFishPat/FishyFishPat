@@ -2,7 +2,7 @@
 
 My name is Patrik and here are things you should know about me.
 
-#### Languages I know:
+### Languages I know:
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES7&style=for-the-badge&color=F7DF1E&logo=JavaScript)
 ![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS3&style=for-the-badge&color=3291A8&logo=CSS3)
 ![HTML5](https://img.shields.io/static/v1?label=HTML&message=HTML5&style=for-the-badge&color=D63933&logo=HTML5)
