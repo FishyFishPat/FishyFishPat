@@ -11,3 +11,10 @@ My name is Patrik and here are things you should know about me.
 ![Vue.js](https://img.shields.io/static/v1?label=Vue&message=3.x&style=for-the-badge&color=3FB27F&logo=Vue.js)
 ![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=23&style=for-the-badge&color=33BAFF&logo=c%2B%2B)
 
+### Software I use:
+
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.48-insider&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=Tevzi2&color=181717&style=for-the-badge&logo=github)
+![GitKraken](https://img.shields.io/static/v1?label=GitKraken&message=7.4.0&color=44abd4&style=for-the-badge&logo=gitkraken)
+![Postman](https://img.shields.io/static/v1?label=Postman&message=7.36.0&color=ff6c37&style=for-the-badge&logo=postman)
+![JetBrains](https://img.shields.io/static/v1?label=JetBrains&color=ff6c37&style=for-the-badge&logo=jetbrains)
